@@ -30,11 +30,11 @@ Engenharia de Prompts e "Cicatrizes"
 Durante o uso do NotebookLM, foram realizados diversos testes de prompts para entender como obter respostas mais claras, úteis e direcionadas.
 
   Prompts utilizados:
-  "Explique como a IA pode ajudar iniciantes em programação"
-  "Resuma os principais benefícios da IA no aprendizado"
-  "Crie um glossário com os principais termos relacionados ao tema"
-  "Monte um guia prático para estudar programação com apoio de IA"
-  "Quais erros devo evitar ao usar IA para aprender programação?"
+-   "Explique como a IA pode ajudar iniciantes em programação"
+-   "Resuma os principais benefícios da IA no aprendizado"
+-   "Crie um glossário com os principais termos relacionados ao tema"
+-   "Monte um guia prático para estudar programação com apoio de IA"
+-   "Quais erros devo evitar ao usar IA para aprender programação?"
 
 Exemplos de respostas obtidas:
 
