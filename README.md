@@ -65,25 +65,25 @@ A Inteligência Artificial pode ser utilizada como uma ferramenta estratégica p
 6. Organizar cronogramas de estudo.
 
  Cuidados ao usar IA:
-Não copiar código sem entender;
-Sempre validar as informações;
-Evitar dependência da ferramenta;
-Utilizar a IA como apoio, não como atalho.
+- Não copiar código sem entender;
+- Sempre validar as informações;
+- Evitar dependência da ferramenta;
+- Utilizar a IA como apoio, não como atalho.
 
  Glossário:
-IA (Inteligência Artificial): tecnologia que simula a inteligência humana
-Prompt: comando ou pergunta feita para a IA
-Algoritmo: sequência de passos para resolver um problema
-Debug: processo de encontrar e corrigir erros
-Código: conjunto de instruções escritas em linguagem de programação
+- IA (Inteligência Artificial): tecnologia que simula a inteligência humana
+- Prompt: comando ou pergunta feita para a IA
+- Algoritmo: sequência de passos para resolver um problema
+- Debug: processo de encontrar e corrigir erros
+- Código: conjunto de instruções escritas em linguagem de programação
 
  Prompts reutilizáveis:
-"Explique esse código como se eu fosse iniciante"
-"Resuma esse conteúdo em tópicos simples"
-"Crie exercícios sobre esse tema"
-"Me dê um exemplo prático"
-"Onde está o erro neste código?"
-"Explique passo a passo como resolver esse problema"
+-  "Explique esse código como se eu fosse iniciante"
+-  "Resuma esse conteúdo em tópicos simples"
+-  "Crie exercícios sobre esse tema"
+-  "Me dê um exemplo prático"
+-  "Onde está o erro neste código?"
+-  "Explique passo a passo como resolver esse problema"
 
 
  Conclusão:
