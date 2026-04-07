@@ -9,11 +9,11 @@ A Inteligência Artificial (IA) tem se tornado uma aliada poderosa no processo d
 Neste projeto, foi desenvolvido um caderno temático com foco em como utilizar a IA para aprender programação, especialmente para iniciantes na área de tecnologia.
 
  Objetivos do projeto:
--  1- Compreender como a IA pode apoiar o aprendizado em programação;
--  2- Utilizar o NotebookLM como ferramenta de estudo;
--  3- Praticar curadoria de fontes confiáveis;
--  4- Desenvolver habilidades na criação de prompts;
--  5- Consolidar o conhecimento em um miniguia estruturado.
+-   Compreender como a IA pode apoiar o aprendizado em programação;
+-   Utilizar o NotebookLM como ferramenta de estudo;
+-   Praticar curadoria de fontes confiáveis;
+-   Desenvolver habilidades na criação de prompts;
+-   Consolidar o conhecimento em um miniguia estruturado.
 
 Curadoria de Fontes
 
