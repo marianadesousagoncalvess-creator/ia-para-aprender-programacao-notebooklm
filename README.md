@@ -1,4 +1,4 @@
-# ia-para--aprender-programacao-notebooklm
+# ia-para--aprender-programação-notebooklm
 Projeto da DIO explorando o uso da Inteligência Artificial e NotebookLM para aprendizado de programação.   
 
 Como usar Inteligência Artificial para aprender programação
