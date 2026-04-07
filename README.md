@@ -19,11 +19,11 @@ Curadoria de Fontes
 
 As seguintes fontes abertas foram utilizadas e inseridas no NotebookLM:
 
-1-  https://www.ibm.com/br-pt/topics/artificial-intelligence
-2-  https://www.microsoft.com/pt-br/ai
-3-  https://edu.google.com/intl/ALL_br/ai/
-4-  https://pt.wikipedia.org/wiki/Aprendizagem_ativa
-5-  https://developers.google.com/learn
+-  1-  https://www.ibm.com/br-pt/topics/artificial-intelligence
+-  2-  https://www.microsoft.com/pt-br/ai
+-  3-  https://edu.google.com/intl/ALL_br/ai/
+-  4-  https://pt.wikipedia.org/wiki/Aprendizagem_ativa
+-  5-  https://developers.google.com/learn
 
 Engenharia de Prompts e "Cicatrizes"
 
