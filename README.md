@@ -19,37 +19,37 @@ Curadoria de Fontes
 
 As seguintes fontes abertas foram utilizadas e inseridas no NotebookLM:
 
-1- https://www.ibm.com/br-pt/topics/artificial-intelligence
-2- https://www.microsoft.com/pt-br/ai
-3- https://edu.google.com/intl/ALL_br/ai/
-4- https://pt.wikipedia.org/wiki/Aprendizagem_ativa
-5- https://developers.google.com/learn
+1-  https://www.ibm.com/br-pt/topics/artificial-intelligence
+2-  https://www.microsoft.com/pt-br/ai
+3-  https://edu.google.com/intl/ALL_br/ai/
+4-  https://pt.wikipedia.org/wiki/Aprendizagem_ativa
+5-  https://developers.google.com/learn
 
 Engenharia de Prompts e "Cicatrizes"
 
 Durante o uso do NotebookLM, foram realizados diversos testes de prompts para entender como obter respostas mais claras, úteis e direcionadas.
 
   Prompts utilizados:
-"Explique como a IA pode ajudar iniciantes em programação"
-"Resuma os principais benefícios da IA no aprendizado"
-"Crie um glossário com os principais termos relacionados ao tema"
-"Monte um guia prático para estudar programação com apoio de IA"
-"Quais erros devo evitar ao usar IA para aprender programação?"
+  "Explique como a IA pode ajudar iniciantes em programação"
+  "Resuma os principais benefícios da IA no aprendizado"
+  "Crie um glossário com os principais termos relacionados ao tema"
+  "Monte um guia prático para estudar programação com apoio de IA"
+  "Quais erros devo evitar ao usar IA para aprender programação?"
 
 Exemplos de respostas obtidas:
 
 As respostas da IA destacaram que a Inteligência Artificial pode auxiliar na explicação de conceitos, geração de exercícios, revisão de conteúdos e apoio na resolução de dúvidas.
 
   Dificuldades encontradas (Cicatrizes):
-Prompts muito genéricos geravam respostas vagas;
-Algumas respostas eram muito extensas e pouco objetivas;
-Necessidade de ajustar o nível da explicação (iniciante/intermediário).
+  Prompts muito genéricos geravam respostas vagas;
+  Algumas respostas eram muito extensas e pouco objetivas;
+  Necessidade de ajustar o nível da explicação (iniciante/intermediário).
 
  Aprendizados:
-Prompts específicos geram respostas mais úteis;
-A clareza na pergunta impacta diretamente na qualidade da resposta;
-A IA deve ser usada como ferramenta de apoio, e não substituição do estudo;
-A escolha das fontes influencia diretamente o resultado final.
+  Prompts específicos geram respostas mais úteis;
+  A clareza na pergunta impacta diretamente na qualidade da resposta;
+  A IA deve ser usada como ferramenta de apoio, e não substituição do estudo;
+  A escolha das fontes influencia diretamente o resultado final.
 
 Miniguia de Estudo (Entrega Final)
 Resumo do tema
