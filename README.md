@@ -41,15 +41,15 @@ Exemplos de respostas obtidas:
 As respostas da IA destacaram que a Inteligência Artificial pode auxiliar na explicação de conceitos, geração de exercícios, revisão de conteúdos e apoio na resolução de dúvidas.
 
   Dificuldades encontradas (Cicatrizes):
-  Prompts muito genéricos geravam respostas vagas;
-  Algumas respostas eram muito extensas e pouco objetivas;
-  Necessidade de ajustar o nível da explicação (iniciante/intermediário).
+-   Prompts muito genéricos geravam respostas vagas;
+-   Algumas respostas eram muito extensas e pouco objetivas;
+-   Necessidade de ajustar o nível da explicação (iniciante/intermediário).
 
  Aprendizados:
-  Prompts específicos geram respostas mais úteis;
-  A clareza na pergunta impacta diretamente na qualidade da resposta;
-  A IA deve ser usada como ferramenta de apoio, e não substituição do estudo;
-  A escolha das fontes influencia diretamente o resultado final.
+ -  Prompts específicos geram respostas mais úteis;
+ -  A clareza na pergunta impacta diretamente na qualidade da resposta;
+ -  A IA deve ser usada como ferramenta de apoio, e não substituição do estudo;
+ -  A escolha das fontes influencia diretamente o resultado final.
 
 Miniguia de Estudo (Entrega Final)
 Resumo do tema
@@ -57,12 +57,12 @@ Resumo do tema
 A Inteligência Artificial pode ser utilizada como uma ferramenta estratégica para acelerar o aprendizado em programação. Ela permite que o estudante tenha acesso a explicações rápidas, exemplos práticos e suporte contínuo durante os estudos. Ferramentas como o NotebookLM ajudam na organização do conhecimento, permitindo reunir fontes confiáveis e interagir com elas por meio de perguntas e análises.
 
  Como usar IA para aprender programação? 
-Solicitar explicações simplificadas de conceitos;
-Pedir exemplos práticos de código;
-Criar exercícios para praticar;
-Revisar conteúdos estudados;
-Identificar erros em códigos (debug);
-Organizar cronogramas de estudo.
+1. Solicitar explicações simplificadas de conceitos;
+2. Pedir exemplos práticos de código;
+3. Criar exercícios para praticar;
+4. Revisar conteúdos estudados;
+5. Identificar erros em códigos (debug);
+6. Organizar cronogramas de estudo.
 
  Cuidados ao usar IA:
 Não copiar código sem entender;
